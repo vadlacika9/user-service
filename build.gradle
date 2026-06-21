@@ -6,7 +6,7 @@ plugins {
 
 group = 'com'
 version = '0.0.1-SNAPSHOT'
-description = 'sportapp-user-service'
+description = 'user-service'
 
 java {
     toolchain {
