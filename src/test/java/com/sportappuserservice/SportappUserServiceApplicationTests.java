@@ -1,0 +1,13 @@
+package com.sportappuserservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SportappUserServiceApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
